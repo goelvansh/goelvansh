@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I haven’t been everywhere, but it’s on my list.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
