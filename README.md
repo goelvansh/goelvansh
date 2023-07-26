@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Langchain, Spacy, Transformers, Matplotlib, JS, Streamlit**
 
-- 🌱 I’m intrigued by and exploring **image detection and 3D modelling with Opencv,Open3D**
+- 🌱 I’m intrigued by and exploring **image detection and 3D modelling with OpenCV, Open3D**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vansh-goel-397647222/**
 
